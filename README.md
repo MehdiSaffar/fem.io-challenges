@@ -4,8 +4,10 @@ This repository contains my solutions to [Frontend Mentor](https://www.frontendm
 
 ## How to run
 
-1. Clone the repository
-2. Go into the directory of the challenge you want to run
-2. Run `npm install` to install the dependencies 
-3. Run `npm run dev` to start the development server
-4. Browse to `http://localhost:3000` to view the project
+1. `git clone` the repo
+2. `cd` into the root directory
+3. Pull the submodules: `git submodule update --init --recursive`
+4. Go into the directory of the challenge you want to run
+5. Run `npm install` to install the dependencies 
+6. Run `npm run dev` to start the development server
+7. Click on the link of the dev server in the terminal to open it in your browser

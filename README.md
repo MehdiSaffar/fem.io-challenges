@@ -7,10 +7,8 @@ This repository contains my solutions to [Frontend Mentor](https://www.frontendm
 
 ## How to run
 
-1. `git clone` the repo
-2. `cd` into the root directory
-3. Pull the submodules: `git submodule update --init --recursive`
-4. Go into the directory of the challenge you want to run
+1. `git clone --recurse-submodules --remote-submodules` to clone the repo as well as all the challenges' repos'
+4. `cd` into the directory of the challenge you want to run
 5. Run `npm install` to install the dependencies 
 6. Run `npm run dev` to start the development server
 7. Click on the link of the dev server in the terminal to open it in your browser

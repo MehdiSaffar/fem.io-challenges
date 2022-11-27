@@ -1,3 +1,15 @@
 [submodule "fem.io-001-qr-code-component"]
 	path = fem.io-001-qr-code-component
 	url = git@github.com:MehdiSaffar/fem.io-001-qr-code-component.git
+[submodule "fem.io-002-product-preview-card-component"]
+	path = fem.io-002-product-preview-card-component
+	url = git@github.com:MehdiSaffar/fem.io-002-product-preview-card-component.git
+[submodule "fem.io-003-interactive-rating-component"]
+	path = fem.io-003-interactive-rating-component
+	url = git@github.com:MehdiSaffar/fem.io-003-interactive-rating-component.git
+[submodule "fem.io-004-nft-preview-card-component"]
+	path = fem.io-004-nft-preview-card-component
+	url = git@github.com:MehdiSaffar/fem.io-004-nft-preview-card-component.git
+[submodule "fem.io-005-order-summary-component"]
+	path = fem.io-005-order-summary-component
+	url = git@github.com:MehdiSaffar/fem.io-005-order-summary-component.git

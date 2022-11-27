@@ -13,3 +13,6 @@
 [submodule "fem.io-005-order-summary-component"]
 	path = fem.io-005-order-summary-component
 	url = git@github.com:MehdiSaffar/fem.io-005-order-summary-component.git
+[submodule "fem.io-006-stats-preview-card-component"]
+	path = fem.io-006-stats-preview-card-component
+	url = git@github.com:MehdiSaffar/fem.io-006-stats-preview-card-component.git

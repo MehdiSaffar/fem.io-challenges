@@ -19,3 +19,6 @@
 [submodule "fem.io-007-3-column-card-component"]
 	path = fem.io-007-3-column-card-component
 	url = git@github.com:MehdiSaffar/fem.io-007-3-column-card-component.git
+[submodule "fem.io-008-profile-card-component"]
+	path = fem.io-008-profile-card-component
+	url = https://github.com/MehdiSaffar/fem.io-008-profile-card-component

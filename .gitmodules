@@ -16,3 +16,6 @@
 [submodule "fem.io-006-stats-preview-card-component"]
 	path = fem.io-006-stats-preview-card-component
 	url = git@github.com:MehdiSaffar/fem.io-006-stats-preview-card-component.git
+[submodule "fem.io-007-3-column-card-component"]
+	path = fem.io-007-3-column-card-component
+	url = git@github.com:MehdiSaffar/fem.io-007-3-column-card-component.git
